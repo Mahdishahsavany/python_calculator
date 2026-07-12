@@ -20,3 +20,7 @@ This calculator supports basic arithmetic operations, square root, power calcula
 
 - Python
 - Tkinter (GUI)
+
+## Screenshot
+
+![Calculator Screenshot](calculator.png)
